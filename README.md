@@ -43,5 +43,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/DougGomesss/DougGomesss/blob/master/metrics.isocalendar.svg" alt="Metrics com Calendário Isométrico">
+  <img src="profile-activity-graph.svg" width="100%" alt="Gráfico de Atividade Recente">
 </p>
