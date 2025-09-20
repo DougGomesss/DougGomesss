@@ -34,6 +34,11 @@
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DougGomesss&theme=dracula&column=2" alt="GitHub Trophies">
+</p>
+</div>
+
 ---
 
 <div> 
@@ -42,6 +47,4 @@
   <a href="https://www.linkedin.com/in/douglas-oliveira-806710208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p align="center">
-  <img src="profile-activity-graph.svg" width="100%" alt="Gráfico de Atividade Recente">
-</p>
+
