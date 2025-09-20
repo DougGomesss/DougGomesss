@@ -2,7 +2,6 @@ name: Generate Datas
 
 on:
   schedule:
-    # Executa a cada 12 horas (às 00:00 e 12:00 UTC)
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -10,12 +9,14 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    
-    # ↓↓ ESTA É A CORREÇÃO PRINCIPAL ↓↓
     permissions:
-      contents: write 
+      contents: write
 
     steps:
+      # Garante que o diretório de saída exista
+      - name: Create output directory
+        run: mkdir -p dist
+
       # Gera a animação da Snake
       - uses: Platane/snk@v3
         with:
