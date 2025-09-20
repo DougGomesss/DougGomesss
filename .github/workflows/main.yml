@@ -2,6 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
+    # Executa a cada 12 horas (às 00:00 e 12:00 UTC)
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -13,17 +14,10 @@ jobs:
       contents: write
 
     steps:
-      # Garante que o diretório de saída exista
-      - name: Create output directory
-        run: mkdir -p dist
-
-      # Gera a animação da Snake
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: DougGomesss
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Publica os arquivos gerados na branch 'output'
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
