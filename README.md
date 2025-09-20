@@ -42,4 +42,6 @@
   <a href="https://www.linkedin.com/in/douglas-oliveira-806710208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake animation](https://github.com/DougGomesss/DougGomesss/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+  <img src="https://github.com/DougGomesss/DougGomesss/blob/master/metrics.isocalendar.svg" alt="Metrics com Calendário Isométrico">
+</p>
