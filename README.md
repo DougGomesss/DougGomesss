@@ -5,6 +5,17 @@
   </a>
 </div>
 
+<div align="left" style="padding-left: 15px;">
+  <h3>👋 Olá, sou Douglas!</h3>
+  <p>Desenvolvedor focado em soluções de integração de dados e otimização de processos.</p>
+  <ul>
+    <li>🏢 <strong>Empresa:</strong> Pricefy by Selbetti</li>
+    <li>👨‍💻 <strong>Cargo:</strong> Desenvolvedor de Conectores</li>
+    <li>🚀 <strong>Minha Missão:</strong> Construir pontes entre os sistemas ERP dos clientes e nossa plataforma SAAS.</li>
+    <li>🔧 <strong>No dia a dia:</strong> Desenvolvo e mantenho conectores para extração e transformação de dados, garantindo um fluxo de informação seguro e eficiente.</li>
+  </ul>
+</div>
+
 <h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
 
 <h3 align="left">🚀 Frontend</h3>
@@ -36,15 +47,12 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DougGomesss&theme=dracula&column=2" alt="GitHub Trophies">
-</p>
 </div>
 
 ---
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/dodo_jg2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="douglasgomesoliveira00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:douglasgomesoliveira00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-oliveira-806710208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
