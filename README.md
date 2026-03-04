@@ -7,19 +7,19 @@
 
 <div align="left" style="padding-left: 15px;">
   <h3>👋 Olá, sou Douglas!</h3>
-  <p>Desenvolvedor focado em soluções de integração de dados e otimização de processos.</p>
+  <p>Desenvolvedor Fullstack focado em arquiteturas escaláveis, automação e soluções personalizadas.</p>
   <ul>
-    <li>🏢 <strong>Empresa:</strong> Pricefy by Selbetti</li>
-    <li>👨‍💻 <strong>Cargo:</strong> Desenvolvedor de Conectores</li>
-    <li>🚀 <strong>Minha Missão:</strong> Construir pontes entre os sistemas ERP dos clientes e nossa plataforma SAAS.</li>
-    <li>🔧 <strong>No dia a dia:</strong> Desenvolvo e mantenho conectores para extração e transformação de dados, garantindo um fluxo de informação seguro e eficiente.</li>
+    <li>🏢 <strong>Status:</strong> Desenvolvedor Autônomo / Freelancer</li>
+    <li>👨‍💻 <strong>Especialidade:</strong> Especialista Fullstack (.NET 9, Angular 20.3, React & Node.js 24)</li>
+    <li>🚀 <strong>Minha Missão:</strong> Transformar regras de negócio complexas em aplicações robustas e de alta performance.</li>
+    <li>🔧 <strong>No dia a dia:</strong> Desenvolvo desde APIs resilientes em C# até interfaces reativas, garantindo código limpo e manutenível.</li>
   </ul>
 </div>
 
 <h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
 
 <h3 align="left">🚀 Frontend</h3>
-<p align="left">Ferramentas para a construção de interfaces de usuário ricas, interativas e responsivas.</p>
+<p align="left">Interfaces ricas, interativas e responsivas com as tecnologias mais modernas do mercado.</p>
 <div style="display: inline-block;">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,27 +27,28 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg">
 </div>
 
 <h3 align="left">💻 Backend</h3>
-<p align="left">Linguagem e frameworks que utilizo para construir a lógica de negócio, APIs e o lado do servidor das aplicações.</p>
+<p align="left">Lógica de negócio e APIs escaláveis utilizando C# e Node.js.</p>
 <div style="display: inline-block;">
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 </div>
 
 <h3 align="left">☁️ Banco de Dados & Cloud</h3>
-<p align="left">Tecnologias para gerenciamento de bancos de dados e infraestrutura na nuvem.</p>
+<p align="left">Gerenciamento de dados eficiente e infraestrutura moderna.</p>
 <div style="display: inline-block;">
-  <img align="center" alt="DBeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
+  <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DougGomesss&theme=dracula&column=2" alt="GitHub Trophies">
-</div>
 
 ---
 
